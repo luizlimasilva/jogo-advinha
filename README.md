@@ -5,5 +5,5 @@
 Para rodar este projeto em sua máquina, favor digite:
 
 ```
-Google Chrome Install
+choco install GoogleChrome
 ```
